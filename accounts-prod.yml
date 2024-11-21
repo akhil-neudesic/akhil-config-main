@@ -1,5 +1,5 @@
 build:
-  version: "1.01"
+  version: "1.02"
 
 accounts:
   message: "Hey, welcome to best EazyBank accounts related webhook APIs"
