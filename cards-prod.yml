@@ -1,5 +1,5 @@
 build:
-  version: "2.11b"
+  version: "2.11a"
 
 cards:
   message: "Hey, welcome to EazyBank cards related prod APIs"
