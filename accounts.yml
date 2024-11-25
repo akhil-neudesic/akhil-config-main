@@ -1,5 +1,5 @@
 build:
-  version: "13.13a"
+  version: "13.13b"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
